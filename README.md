@@ -1,6 +1,6 @@
 # UniversalNgApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.0.
+This project was generated with [Angular ADVENCED CLI](https://github.com/cashfarm/angular-advanced-cli) version 1.3.0.
 
 ## install
 ```
