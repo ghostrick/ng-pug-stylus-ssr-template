@@ -4,6 +4,7 @@
   "license": "MIT",
   "scripts": {
     "ng": "ng",
+    "start:ssr": "ng build --prod --output-hashing none && ng build --prod --app server --output-hashing none && node server",
     "start": "ng serve",
     "build": "ng build",
     "test": "ng test",
