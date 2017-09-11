@@ -7,6 +7,7 @@ This project was generated with [Angular ADVENCED CLI](https://github.com/cashfa
 $ git clone https://github.com/Ghostrick/ng-pug-stylus-ssr-template
 $ npm uninstall -g @angular/cli
 $ npm install -g @cashfarm/angular-advanced-cli
+$ npm run preinstall
 ```
 
 ## Development server
