@@ -4,6 +4,7 @@
   "license": "MIT",
   "scripts": {
     "ng": "ng",
+    "preinstall": "npm i rxjs typescript @cashfarm/angular-advanced-cli @angular/compiler-cli @angular/compiler @angular/core -g",
     "start:ssr": "ng build --prod --output-hashing none && ng build --prod --app server --output-hashing none && node server",
     "start": "ng serve",
     "build": "ng build",
